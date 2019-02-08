@@ -1,6 +1,6 @@
 # dellos10.pm
 
-Dell NOS10 module for  RANCID - Really Awesome New Cisco confIg Differ
+Dell NOS10 module for  RANCID - Really Awesome New Cisco confIg Differ http://www.shrubbery.net/rancid/
 
 ## Using module
 
